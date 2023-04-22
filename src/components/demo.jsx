@@ -39,6 +39,12 @@ const Demo = () => {
     }
   }
 
+  // const hasNoMouse = matchMedia('(hover: none)').matches;
+  // if (hasNoMouse) {
+  //   const element = document.getElementsByClassName('trash-btn')[0];
+  //   element.style.opacity = '0.7'
+  // }
+
   return (
     <section className="mt-16 w-full max-w-xl">
       <div className="flex flex-col w-full gap-2">
