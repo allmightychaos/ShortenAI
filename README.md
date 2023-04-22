@@ -1,6 +1,15 @@
 # ShortenAI - Your Summarizations Tool
 *(We will implement a feature soon, that allows you to summarize text from a file or paste it directly onto the site, but pssh!)*<br>
 
+### Cooming Soon...
+
+1. White-/ Darkmode switch
+2. Paste text directly onto the site
+3. Upload text from files
+4. soon... (You'll see)
+
+<br><br>
+
 ### What is ShortenAI?
 
 [ShortenAI](https://almightychaos.dev/summarizer/shortenai) is a powerful summarizer, which gives you the best summarizations from articles or websites compared to our competition, as it uses the newest technology of AI, and not just one.<br>
