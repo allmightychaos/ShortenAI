@@ -7,8 +7,6 @@
 3. Upload text from files
 4. soon... (You'll see)
 
-<br>
-
 ### What is ShortenAI?
 
 [ShortenAI](https://shortenai.almightychaos.dev) is a powerful summarizer, which gives you the best summarizations from articles or websites compared to our competition, as it uses the newest technology of AI, and not just one.<br>
