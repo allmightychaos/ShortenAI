@@ -1,5 +1,4 @@
 # ShortenAI - Your Summarizations Tool
-*(We will implement a feature soon, that allows you to summarize text from a file or paste it directly onto the site, but pssh!)*<br>
 
 ### Coming Soon...
 
@@ -8,7 +7,7 @@
 3. Upload text from files
 4. soon... (You'll see)
 
-<br><br>
+<br>
 
 ### What is ShortenAI?
 
