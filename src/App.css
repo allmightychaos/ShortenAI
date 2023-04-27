@@ -8,7 +8,7 @@
   position: fixed;
   display: flex;
   justify-content: center;
-  padding: 120px 24px 160px 24px;
+  padding: 120px 24px 160px;
   pointer-events: none;
 }
 
@@ -35,9 +35,7 @@
 }
 
 .gradient {
-  height: fit-content;
   z-index: 3;
-  width: 100%;
   max-width: 640px;
   background-image: radial-gradient(
       at 27% 37%,
